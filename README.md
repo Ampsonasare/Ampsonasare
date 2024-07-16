@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (not yet)
 - 📫 How to reach me ...
 - 😄 Pronouns: him
-- ⚡ Fun fact: the idea of creating something of your own got me intrigued in technology since at the time i didn't know what i wanted to do when i grow up(i was 16 at the time btw)
+- ⚡ Fun fact: the idea of creating something of your own got me intrigued in technology. Since at the time, i didn't know what i wanted to do when i grow up(i was 16 at the time btw)
 
 <!---
 Ampsonasare/Ampsonasare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
